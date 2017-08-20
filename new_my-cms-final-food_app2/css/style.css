@@ -1,0 +1,184 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1{
+    font-weight: 400;
+
+
+}
+
+.hero h1{
+    font-size: 50px;
+}
+/*div{*/
+    /*border: 1px solid blue;*/
+/*}*/
+
+.header{
+    background-color: #e53d3d;
+    height: 100px;
+}
+.col{
+    height:100px;
+}
+
+.logo{
+    width: 180px;
+    margin:10px auto 10px auto;
+}
+
+ul li{
+    margin-top: 30px;
+    padding: 10px 20px;
+
+}
+
+ul li a{
+    padding: 10px 20px;
+    color: #ffffff;
+   font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.btn {
+    width:200px ;
+    height: 50px !important;
+    background-color: #e53d3d !important;
+    border-radius: 20px !important;
+
+
+}
+.btn img{
+    padding-top: 5px;
+}
+
+.add h2{
+    color: white;
+    font-size: 24px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+
+}
+
+.add{
+    margin-right: 10px;
+}
+
+.main{
+    border-radius: 15px;
+    height: 800px;
+    margin-top: 40px;
+    border:1px solid #e53d3d;
+}
+.bar{
+    margin-top: 15px;
+}
+.fantom{
+    height: 150px;
+}
+@media  (max-width:480px) {
+   .fantom{
+       display: none;
+   }
+
+}
+.r1{
+    margin-top: 50px;
+}
+
+.pr h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.pr p{
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.profile-back{
+    border: 1px solid #e53d3d ;
+    border-radius: 5px;
+    width: 100%;
+
+}
+.prof-pic img{
+    border-radius: 10px;
+
+}
+
+.prof-info {
+    padding: 0;
+    background-color: aliceblue;
+}
+.p-one{
+    font-weight: bold;
+}
+
+.change-profile h2{
+    color: white;
+    font-size: 18px;
+
+
+
+}
+
+.change-profile{
+    margin-right: 20px;
+
+}
+.change-profile-btn{
+   margin-top: 200px;
+
+}
+
+.login{
+    background-image: url('../img/cover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.log{
+padding-left: 80px;
+}
+
+.log-form{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    /*opacity: 0.2;*/
+}
+
+.log-col{
+    margin-top:80px;
+}
+.log-btn{
+    float: right;
+    margin-right: 50px;
+    margin-top: 30px;
+    width: 100px;
+}
+
+.sgn-btn{
+    float: left;
+    margin-left: 150px;
+    margin-top: 30px;
+    width: 100px;
+}
+
+.logo-login{
+    margin-top: 20px;
+
+}
+.img{
+
+    margin: 0 auto;
+}
